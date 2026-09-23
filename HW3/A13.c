@@ -3,7 +3,6 @@
 int main(void)
 {
 	int n;
-	printf("Введите целое положительное трёхзначное число\n");
 	scanf("%d",&n);
 	int sum;
 	sum = n%10;
